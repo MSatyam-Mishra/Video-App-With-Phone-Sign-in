@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "34230780842",
+    "project_id": "video-sharing-with-phone-auth",
+    "storage_bucket": "video-sharing-with-phone-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34230780842:android:209daf16c04fde985661d3",
+        "android_client_info": {
+          "package_name": "com.example.video_share_with_pone_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34230780842-s9q3l5s380ppq8cmbmdjisfo5ag9grip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsCoKS5cMqStGPXGqLYkzMz3yRK9ONZ00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34230780842-s9q3l5s380ppq8cmbmdjisfo5ag9grip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34230780842:android:c0217d1416771cb95661d3",
+        "android_client_info": {
+          "package_name": "com.example.video_sharing_app_with_phone_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34230780842-s9q3l5s380ppq8cmbmdjisfo5ag9grip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsCoKS5cMqStGPXGqLYkzMz3yRK9ONZ00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34230780842-s9q3l5s380ppq8cmbmdjisfo5ag9grip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
