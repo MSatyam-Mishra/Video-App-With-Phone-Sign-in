@@ -1,6 +1,17 @@
-# video_share_with_pone_auth
+# Features 
+- Login with mobile OTP verification
 
-A new Flutter project.
+- Record Video
+
+- Display Video
+
+# Screenshots
+
+![phone Signup](https://user-images.githubusercontent.com/12216430/234518667-87ce15e8-ab8c-425a-ae3e-3186340c6eca.png)
+
+![add_video_details](https://user-images.githubusercontent.com/12216430/234518710-12599917-5bfb-4b7f-80d6-9591b36e87d7.png)
+
+![Video Screen](https://user-images.githubusercontent.com/12216430/234518731-c2344bc7-d6c2-4709-ac1e-1dae21880986.png)
 
 ## Getting Started
 
